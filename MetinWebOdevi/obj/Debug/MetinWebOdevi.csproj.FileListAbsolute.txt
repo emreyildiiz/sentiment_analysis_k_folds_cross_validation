@@ -1,0 +1,21 @@
+C:\Users\emrem\source\repos\MetinWebOdevi\MetinWebOdevi\bin\Debug\MetinWebOdevi.exe.config
+C:\Users\emrem\source\repos\MetinWebOdevi\MetinWebOdevi\bin\Debug\MetinWebOdevi.exe
+C:\Users\emrem\source\repos\MetinWebOdevi\MetinWebOdevi\bin\Debug\MetinWebOdevi.pdb
+C:\Users\emrem\source\repos\MetinWebOdevi\MetinWebOdevi\bin\Debug\NZemberek.dll
+C:\Users\emrem\source\repos\MetinWebOdevi\MetinWebOdevi\obj\Debug\MetinWebOdevi.csprojAssemblyReference.cache
+C:\Users\emrem\source\repos\MetinWebOdevi\MetinWebOdevi\obj\Debug\MetinWebOdevi.csproj.CopyComplete
+C:\Users\emrem\source\repos\MetinWebOdevi\MetinWebOdevi\obj\Debug\MetinWebOdevi.exe
+C:\Users\emrem\source\repos\MetinWebOdevi\MetinWebOdevi\obj\Debug\MetinWebOdevi.pdb
+C:\Users\emrem\source\repos\MetinWebOdevi\MetinWebOdevi\bin\Debug\raw_texts\1\1.txt
+C:\Users\emrem\source\repos\MetinWebOdevi\MetinWebOdevi\bin\Debug\raw_texts\1\100.txt
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\bin\Debug\raw_texts\1\1.txt
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\bin\Debug\raw_texts\1\100.txt
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\bin\Debug\MetinWebOdevi.exe.config
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\bin\Debug\MetinWebOdevi.exe
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\bin\Debug\MetinWebOdevi.pdb
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\bin\Debug\NZemberek.dll
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\obj\Debug\MetinWebOdevi.csprojAssemblyReference.cache
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\obj\Debug\MetinWebOdevi.csproj.CoreCompileInputs.cache
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\obj\Debug\MetinWebOdevi.csproj.CopyComplete
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\obj\Debug\MetinWebOdevi.exe
+F:\Okul\Veri Madenciliği ve Metin ve Web\MetinWebOdevi\MetinWebOdevi\obj\Debug\MetinWebOdevi.pdb
